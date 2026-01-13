@@ -40,6 +40,13 @@ import ttv_logo from "./education_logo/school2.png"
 import pse_logo from "./education_logo/college.png"
 
 
+import resume from "./shivam_resume.pdf"
+
+export const Resume = {
+  resume : resume
+}
+
+
 
 
  export const menuItems = [
