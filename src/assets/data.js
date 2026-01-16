@@ -191,8 +191,8 @@ export const projects = [
       "Stripe",
       "Tailwind",
     ],
-    github: "https://github.com/shivam7062/skillup",
-    webapp: "Not Available",
+    github: "https://github.com/shivam7062/courseapp",
+    webapp: "https://courseapp-lilac.vercel.app/courses",
   },
   {
     id: 1,
