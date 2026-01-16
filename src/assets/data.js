@@ -33,6 +33,7 @@ import vidtube from "./projects_screenshot/vidtube.png"
 import netflix from "./projects_screenshot/netflix.png"
 import tictactoe from "./projects_screenshot/tictactoe.png"
 import calculator from "./projects_screenshot/calculator.png"
+import skillup from "./projects_screenshot/skillup.png"
 
 // School & College Logo
 import dchs_logo from "./education_logo/school1.png"
@@ -177,6 +178,16 @@ export const experiences = [
       tags: ["ReactJS", "Youtube API","Redux Toolkit", "JavaScript", "HTML", "CSS"],
       github: "https://github.com/shivam7062/Youtube",
       webapp: "https://youtube-shivam.vercel.app/",
+    },
+    {
+      id: 0,
+      title: "Skillup",
+      description:
+        "Vidtube is a modern video streaming platform inspired by YouTube, built using React.js and YouTube Data API. Users can explore trending videos, search content, and watch videos with a smooth and responsive interface. Redux Toolkit is used for state management to ensure scalable and efficient data handling.",
+      image: skillup,
+      tags: ["ReactJS", "Nodejs", "ExpressJS", "MongoDB", "Mongoose", "Cloudinary", "Stripe", "Tailwind"],
+      github: "https://github.com/shivam7062/skillup",
+      webapp: "Not Available",
     },
     {
       id: 1,
