@@ -192,7 +192,7 @@ export const projects = [
       "Tailwind",
     ],
     github: "https://github.com/shivam7062/courseapp",
-    webapp: "https://courseapp-lilac.vercel.app/courses",
+    webapp: "https://courseapp-lilac.vercel.app",
   },
   {
     id: 1,
